@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dominic Akrofi
+- 👋 Hi, I’m Dominic Akrofi
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Excel, Querying, and Visualisation
 - 💞️ I’m looking to collaborate on Projects
